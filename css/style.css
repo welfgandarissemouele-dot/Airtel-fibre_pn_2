@@ -1,0 +1,22 @@
+.card{
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.2);
+    z-index: 5;
+}
+
+.img-logo{
+    transition: 0.3s;
+}
+
+.img-logo:hover{
+    transform: scale(1.2);
+}
+
+
+/* .img{
+    height: 500px;
+    width: 600px;
+} */
